@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author medrani
+ *
+ */
+module collections {
+}
